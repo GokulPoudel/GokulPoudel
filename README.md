@@ -35,7 +35,7 @@
 ## 👨‍💻 About Me
 - 🎓 Beginner programmer passionate about coding
 - 🖥️ Can create basic frontend designs
-- 🔮 Future learning path: Java, React, TypeScript, Swift
+- 🔮 Future learning path: Java, React, TypeScript, Swift, AI & web 3.0
 - 🎯 Ultimate goal: Master AI and Data Science
 - 🌱 Currently learning the fundamentals
 
