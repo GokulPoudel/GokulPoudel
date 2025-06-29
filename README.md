@@ -44,7 +44,7 @@
   <i>"Every expert was once a beginner. I'm on my journey to become great at programming!"</i>
 </div>
 
-## 📨 Leave Me a Note at my socials or send a pigon. 
+## 📨 Leave Me a Note at my socials or send it using a pigon. 
 
 
 ## 🛠️ Skills & Tools
