@@ -1,4 +1,4 @@
-# Ganesh Poudel's GitHub Profile 👋
+#  Bet my profile is shit... 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Ganesh+Poudel;Beginner+Programmer;Future+AI%2FData+Science+Enthusiast" alt="Typing SVG" />
@@ -44,7 +44,7 @@
   <i>"Every expert was once a beginner. I'm on my journey to become great at programming!"</i>
 </div>
 
-## 📨 Leave Me a Note 
+## 📨 Leave Me a Note at my socials or send a pigon. 
 
 
 ## 🛠️ Skills & Tools
